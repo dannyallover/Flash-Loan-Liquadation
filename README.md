@@ -10,3 +10,5 @@ second, pay back loan with USDT, third; convert the recieved collateral (WBTC) t
 - You need to register an account on https://www.alchemy.com/ for access to an archive Ethereum node.
 
 - You need to prepare the nodeJS environment for the project yourself, or have [docker](https://www.docker.com/) installed on your machine.
+
+note: project derived from [CS 194](https://berkeley-defi.github.io/f21) at UC Berkeley.
