@@ -6,4 +6,4 @@ For the initial loan, a user borrowed USDT with WBTC as collateral. The loan bec
 WBTC still remains more valuable than USDT, so we can make a profit by liquidating the loan. We do so by taking a flash loan: first, borrow USDT with ETH; 
 second, pay back loan with USDT, third; convert the recieved collateral (WBTC) to WETH. This process results in a profit of ~43.81 ETH.
 
-note: project derived from [CS 194](https://berkeley-defi.github.io/f21) at UC Berkeley.
+note: this is the 2nd project of [CS 194](https://berkeley-defi.github.io/f21) at UC Berkeley.
